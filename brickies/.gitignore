@@ -1,0 +1,25 @@
+# Media files are backed up separately to NAS
+# Git tracks metadata (.md files) and project structure only
+
+*.wav
+*.CR2
+*.flac
+*.aiff
+*.aif
+*.asd
+*.mp3
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+*.webm
+*.tiff
+*.bmp
+*.heic
+*.heif
+*.als~
+project/*/temp/

@@ -1,0 +1,42 @@
+# ZIM Studio Default .zimignore
+# 
+# This file defines patterns for files and directories that should be ignored
+# when running "zim update" to generate sidecar files. The syntax is similar
+# to .gitignore with support for glob patterns.
+
+# DAW Project Files and Directories
+project/live/
+project/reaper/
+project/bitwig/
+project/renoise/
+
+# DAW-specific temporary and backup files
+*.als-backup
+*.rpp-bak
+*.bwproject-backup
+*.xrns-backup
+
+# Common DAW auto-save and backup directories
+**/Backup/
+**/Auto Save/
+**/AutoSave/
+**/Ableton Project Info/
+
+# Cache and temporary directories
+**/.cache/
+**/temp/
+**/tmp/
+**/.tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Example: Keep important files even if they match patterns above
+# Use ! to negate patterns
+# !important.als
+# !project/live/important-session.als
