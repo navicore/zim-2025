@@ -11,7 +11,7 @@ channels: 2
 bit_depth: 24
 file_size: 7488358
 modified: "2025-11-10 12:16:16 UTC"
-tags: ["mix"]
+tags: ["mix", "premaster", "modular"]
 art: []
 ---
 

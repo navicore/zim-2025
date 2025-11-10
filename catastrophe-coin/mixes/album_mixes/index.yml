@@ -1,7 +1,7 @@
 album:
   total_tracks: 9
   total_duration: 3056.16
-  generated: 2025-11-10T13:55:25.817565+00:00
+  generated: 2025-11-10T17:37:52.032719+00:00
 tracks:
 - file: 00 Miami.wav
   title: 00 Miami
@@ -12,6 +12,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 01 A System for New York People.wav
   title: 01 A System for New York People
   description: a mix for catastrophe-coin
@@ -21,6 +23,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 02 Prime Numbers.wav
   title: 02 Prime Numbers
   description: a mix for catastrophe-coin
@@ -30,6 +34,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 03 Multiplying Prime Numbers.wav
   title: 03 Multiplying Prime Numbers
   description: a mix for catastrophe-coin
@@ -39,6 +45,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 04 Island Life.wav
   title: 04 Island Life
   description: a mix for catastrophe-coin
@@ -48,6 +56,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 05 Catastrophe Coin.wav
   title: 05 Catastrophe Coin
   description: a mix for catastrophe-coin
@@ -57,6 +67,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 06 South Seattle.wav
   title: 06 South Seattle
   description: a mix for catastrophe-coin
@@ -66,6 +78,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 07 The Compound.wav
   title: 07 The Compound
   description: a mix for catastrophe-coin
@@ -75,6 +89,8 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular
 - file: 08 Catastrophe Coin Redux.wav
   title: 08 Catastrophe Coin Redux
   description: a mix for catastrophe-coin
@@ -84,3 +100,5 @@ tracks:
   bit_depth: 24
   tags:
   - mix
+  - premaster
+  - modular

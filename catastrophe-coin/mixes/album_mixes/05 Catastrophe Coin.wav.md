@@ -3,8 +3,7 @@ modified: 2025-11-10 12:21:01 UTC
 art: []
 uuid: 0bca96b8-c050-4632-868b-4ee25c2af622
 description: a mix for catastrophe-coin
-tags:
-- mix
+tags: ["mix", "premaster", "modular"]
 file_size: 89280370
 bits_per_sample: 24
 file: 05 Catastrophe Coin.wav
