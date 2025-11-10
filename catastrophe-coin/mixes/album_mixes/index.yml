@@ -1,0 +1,86 @@
+album:
+  total_tracks: 9
+  total_duration: 3056.16
+  generated: 2025-11-10T13:55:25.817565+00:00
+tracks:
+- file: 00 Miami.wav
+  title: 00 Miami
+  description: a mix for catastrophe-coin
+  duration: 26.0
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 01 A System for New York People.wav
+  title: 01 A System for New York People
+  description: a mix for catastrophe-coin
+  duration: 258.94
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 02 Prime Numbers.wav
+  title: 02 Prime Numbers
+  description: a mix for catastrophe-coin
+  duration: 685.67
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 03 Multiplying Prime Numbers.wav
+  title: 03 Multiplying Prime Numbers
+  description: a mix for catastrophe-coin
+  duration: 462.0
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 04 Island Life.wav
+  title: 04 Island Life
+  description: a mix for catastrophe-coin
+  duration: 138.0
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 05 Catastrophe Coin.wav
+  title: 05 Catastrophe Coin
+  description: a mix for catastrophe-coin
+  duration: 311.0
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 06 South Seattle.wav
+  title: 06 South Seattle
+  description: a mix for catastrophe-coin
+  duration: 294.1
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 07 The Compound.wav
+  title: 07 The Compound
+  description: a mix for catastrophe-coin
+  duration: 532.45
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix
+- file: 08 Catastrophe Coin Redux.wav
+  title: 08 Catastrophe Coin Redux
+  description: a mix for catastrophe-coin
+  duration: 348.0
+  sample_rate: 48000
+  channels: 2
+  bit_depth: 24
+  tags:
+  - mix

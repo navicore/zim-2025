@@ -1,23 +1,18 @@
 ---
-uuid: 7879342c-adc3-4531-9fc6-490ecc6621db
-channels: 2
-file: 01 A System for New York People.wav
-bit_depth: 24
+file: "01 A System for New York People.wav"
+path: "catastrophe-coin/mixes/album_mixes/01 A System for New York People.wav"
+project: "catastrophe-coin"
+uuid: "ca279e42-cd8e-456a-8523-63c1654dc7a1"
+title: "01 A System for New York People"
+description: "a mix for catastrophe-coin"
+duration: 258.94
 sample_rate: 48000
-title: 01 A System for New York People
-project: catastrophe-coin
-description: a mix for catastrophe-coin
-path: mixes/album_mixes/01 A System for New York People.wav
+channels: 2
+bit_depth: 24
 file_size: 74573978
-tags:
-- album
-- demo
-- mix
-duration: 293.59770833333334
-bits_per_sample: 24
+modified: "2025-11-09 04:45:56 UTC"
+tags: ["mix"]
 art: []
-duration_seconds: 258.9371458333333
-modified: 2025-11-09 04:45:56 UTC
 ---
 
 # Notes

@@ -1,23 +1,21 @@
 ---
-bit_depth: 24
+modified: 2025-11-10 12:21:01 UTC
 art: []
-title: 05 Catastrophe Coin
-file_size: 89280080
-sample_rate: 48000
-uuid: 05ce6827-4b4f-4503-ac38-eb63ff20afa2
-path: mixes/album_mixes/05 Catastrophe Coin.wav
-bits_per_sample: 24
-modified: 2025-10-25 23:01:18 UTC
+uuid: 0bca96b8-c050-4632-868b-4ee25c2af622
 description: a mix for catastrophe-coin
-file: 05 Catastrophe Coin.wav
 tags:
-- album
-- demo
 - mix
-duration_seconds: 310.0
+file_size: 89280370
+bits_per_sample: 24
+file: 05 Catastrophe Coin.wav
+sample_rate: 48000
 project: catastrophe-coin
-duration: 308.0
+duration: 311.0
+title: 05 Catastrophe Coin
+bit_depth: 24
 channels: 2
+duration_seconds: 310.0
+path: catastrophe-coin/mixes/album_mixes/05 Catastrophe Coin.wav
 ---
 
 # Notes
