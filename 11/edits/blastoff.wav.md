@@ -4,7 +4,7 @@ path: "/Users/navicore/Music/zim-2025/11/edits"
 title: "blastoff.wav"
 description: "Excerpt from 1. ES-9 1+2 - 120 bpm - 003.wav"
 duration: 29.00
-tags: ["excerpt", "source", "eurorack"]
+tags: ["excerpt", "source", "eurorack", "interstellar radio", "noise", "phaser"]
 source_file: "/Users/navicore/Music/zim-2025/11/sources/Untitled 2025-11-15 15.22.35/1. ES-9 1+2 - 120 bpm - 003.wav"
 source_time_start: 2:19
 source_time_end: 2:48
