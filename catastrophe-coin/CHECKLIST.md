@@ -22,11 +22,9 @@
   * Recording, mixing, and mastering engineer(s)
   * Producer(s), collaborators, photographer, etc.
   * Special thanks (optional)
-* [ ] Create/finalize album artwork (3000x3000 pixels, square)
-* [ ] Upload to Bandcamp and prepare page
+* [x] Create/finalize album artwork (3000x3000 pixels, square)
+* [x] Upload to Bandcamp and prepare page
 * [ ] Submit tracks to digital distributor (DistroKid, etc.)
-* [ ] Upload private tracks (SoundCloud/Google Drive) for press outreach
-* [ ] Take promotional photos (headshots, playing instrument, physical media)
 
 ## 4+ Weeks Before Release
 
@@ -45,7 +43,6 @@
 
 ## 1 Week Before Release
 
-* [ ] Announce pre-orders (if applicable)
 * [ ] Send personal messages to friends, super fans, and collaborators
 * [ ] Prep daily social posts for the week
   * Individual track highlights
@@ -58,7 +55,6 @@
 
 * [ ] Announce on all social platforms
 * [ ] Push "Release" on Bandcamp
-* [ ] Update banners (Facebook, YouTube, website)
 * [ ] Send announcement to Bandcamp subscribers
-* [ ] Email mailing list
-* [ ] Post on Patreon (if applicable)
+* [ ] Contact Phillip and Modular Station
+
