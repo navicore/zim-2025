@@ -12,7 +12,13 @@ bit_depth: 24
 file_size: 100234514
 modified: "2025-11-22 14:39:49 UTC"
 tags: ["master", "eurorack", "experimental", "modular"]
-art: []
+art: ["../../media/cover_art/cover-08.png"]
+composed_by: Ed Sweeney
+performed_by: Ed Sweeney
+recorded_at: Vashon Island, WA
+recorded_on: "July - October 2025"
+mixed_by: Ed Sweeney
+mastered_by: Rupert Clervaux
 ---
 
 # Notes
