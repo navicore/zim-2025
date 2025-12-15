@@ -24,7 +24,7 @@
   * Special thanks (optional)
 * [x] Create/finalize album artwork (3000x3000 pixels, square)
 * [x] Upload to Bandcamp and prepare page
-* [ ] Submit tracks to digital distributor (DistroKid, etc.)
+* [x] Submit tracks to digital distributor (DistroKid, etc.)
 
 ## 4+ Weeks Before Release
 
