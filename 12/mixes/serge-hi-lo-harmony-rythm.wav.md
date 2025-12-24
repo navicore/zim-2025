@@ -11,10 +11,16 @@ channels: 2
 bit_depth: 24
 file_size: 81796096
 modified: "2025-12-24 00:32:06 UTC"
-tags: ["mix"]
+tags: ["mix", "serge", "random source", "melody", "harmony", "4u"]
 art: []
 ---
 
 # Notes
 
-[Add notes about this file here]
+This is sequenced with the 4-step sequencer and clock divider and random stepped
+CV from SSG(GTO).  The single voice is two GTSs normaled to a Peak/Trough with
+some CV modulated by a self-modulating wave multiplayer bottom two circuits.
+
+Prepared to discuss harmony with Sarah.  This is a single voice but the harmony
+on odd notes hold my attention.
+
